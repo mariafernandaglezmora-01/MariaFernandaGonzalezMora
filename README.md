@@ -10,25 +10,25 @@ Portafolio de proyectos de analítica, SIG/cartografía y visualización interac
 
 ## Repositorios destacados (Pinned)
 
-### 1) Accesibilidad a servicios de salud (SIG)
-Análisis espacial de accesibilidad y cobertura a servicios de salud mediante herramientas SIG y criterios de análisis territorial.  
-Repo: https://github.com/mariafernandaglezmora-01/Accesibilidad_Salud
+### 1) ZMVM Groundwater Recharge – WebMap (Leaflet)
+Mapa web en HTML con Leaflet para visualizar capas y resultados de un análisis multicriterio orientado a identificar zonas potenciales de recarga artificial de agua subterránea en la ZMVM.  
+Repo: https://github.com/mariafernandaglezmora-01/ZMVM_GroundwaterRecharge_WebMap
 
 ### 2) Cartography Portfolio (GIS)
 Portafolio de cartografía para instrumentos de planeación territorial, movilidad e infraestructura (mapa base, cartografía temática, productos de publicación y control de calidad cartográfica).  
 Repo: https://github.com/mariafernandaglezmora-01/Cartography_Portfolio-GIS-
 
-### 3) Visualización Electoral
+### 3) Visualización Electoral (RStudio)
 Exploración y visualización de datos electorales con enfoque territorial para identificar patrones espaciales y tendencias.  
 Repo: https://github.com/mariafernandaglezmora-01/VisualizacionElectoral
 
-### 4) Tableau Public Gallery
+### 4) Accesibilidad a servicios de salud (SIG)
+Análisis espacial de accesibilidad y cobertura a servicios de salud mediante herramientas SIG y criterios de análisis territorial.  
+Repo: https://github.com/mariafernandaglezmora-01/Accesibilidad_Salud
+
+### 5) Tableau Public Gallery
 Galería de tableros publicados en Tableau Public (temas de consumo, salud, fenómenos naturales y migración).  
 Repo: https://github.com/mariafernandaglezmora-01/Tableau_Public_Gallery
-
-### 5) ZMVM Groundwater Recharge – WebMap (Leaflet)
-Mapa web en HTML con Leaflet para visualizar capas y resultados de un análisis multicriterio orientado a identificar zonas potenciales de recarga artificial de agua subterránea en la ZMVM.  
-Repo: https://github.com/mariafernandaglezmora-01/ZMVM_GroundwaterRecharge_WebMap
 
 ### 6) AED Tuberculosis (Python)
 Análisis exploratorio de datos (AED) de tuberculosis en Python: limpieza, estadística descriptiva y visualización para reconocer patrones y variables relevantes.  
